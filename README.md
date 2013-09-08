@@ -1,2 +1,1 @@
-learngitsubmodules
-==================
+Halvard's learngitsubmodules repository
